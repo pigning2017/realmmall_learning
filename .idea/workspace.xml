@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Idea_SSM_mmall:war" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2aa0e0b7-5c7b-4c11-8997-614272acac66" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main10.java" afterDir="false" />
@@ -13,13 +18,13 @@
       <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/java/com/pgn/entity/TWarehouse.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/resources/applicationContext.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/resources/entity/TInventory.hbm.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/resources/entity/TWarehouse.hbm.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/test/java/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/dataSources.local.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/vcs.xml" afterDir="false" />
@@ -38,6 +43,7 @@
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/resources/entity/ViewInventoryMedicine.hbm.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/resources/jdbc.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/test/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/.idea/artifacts/Idea_Struts2_inventorymanager_partStruts2_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/.idea/encodings.xml" afterDir="false" />
@@ -73,7 +79,7 @@
       <change beforePath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/.idea/libraries/Struts_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/.idea/libraries/Struts_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/src/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/src/struts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/dataSources/7c1a5c7d-2c7e-4845-a6c3-868f08fd3136.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/dataSources/7c1a5c7d-2c7e-4845-a6c3-868f08fd3136.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/dataSources/7c1a5c7d-2c7e-4845-a6c3-868f08fd3136/storage_v2/_src_/schema/demo_inventorysystem_ver1.0.QCUp0Q.meta" beforeDir="false" />
@@ -93,6 +99,8 @@
       <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/resources/entity/ViewInventoryMedicine.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/resources/entity/ViewInventoryMedicine.hbm.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/resources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/.idea/libraries/commons_fileupload_1_3_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/.idea/libraries/gson_2_4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/.idea/vcs.xml" beforeDir="false" />
@@ -436,39 +444,68 @@
     <session id="-680984315">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="gitignore" value="316" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="PLAIN_TEXT" value="316" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="LICENSE" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="jsp" value="1" />
+          <entry key="md" value="1" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSP" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
+            <state relative-caret-position="140">
               <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -481,12 +518,13 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -495,6 +533,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -509,11 +554,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="-8" />
-    <option name="width" value="1843" />
-    <option name="height" value="1096" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="999" />
+    <option name="width" value="928" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -662,14 +706,14 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -712,12 +756,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565357779412" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565408507150" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
@@ -823,49 +869,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565355553665</updated>
-      <workItem from="1565355555319" duration="2071000" />
+      <workItem from="1565355555319" duration="2819000" />
+      <workItem from="1565407329001" duration="1000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2071000" />
+    <option name="totallyTimeSpent" value="3819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="85" y="-8" width="1843" height="1096" extended-state="6" />
+    <frame x="999" y="0" width="928" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19349411" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40207374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.3298647" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298647" />
-      <window_info anchor="bottom" id="Tail" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298647" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298647" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3298647" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49971956" visible="true" weight="0.3329832" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50028044" side_tool="true" weight="0.3298647" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298647" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Tail" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -875,13 +922,42 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="20">
+            <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="-3522" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
